@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_starter",
+  "version": "1.0.0",
+  "description": "It is an starter project for nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Haraprosad Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
